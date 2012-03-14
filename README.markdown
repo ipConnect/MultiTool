@@ -1,7 +1,7 @@
-<s>Completed</s>
-<b>In progress</b>
-Not initialized
+<s>Completed</s><br />
+<b>In progress</b><br />
+Not initialized<br />
 
-Changelog:
- | 0.1
+Changelog:<br />
+ | 0.1<br/>
  <b>Completed and released</b>
