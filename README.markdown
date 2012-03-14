@@ -1,5 +1,5 @@
 <div style="font-family: Verdana;">
-Legend:
+Legend:<br />
 <s>Completed</s><br />
 <b>In progress</b><br />
 Not initialized<br />
