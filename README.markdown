@@ -1,10 +1,10 @@
 Legend:<br />
-<s>Completed</s><br />
-<b>In progress</b><br />
-Not initialized<br />
+<font color="green">Completed</font><br />
+<font color="orange">In progress</font><br />
+<font color="red">Not initialized</font><br />
 
 Changelog:<br />
  | 0.1<br/>
- <b>Completed and released</b><br />
- <s>Simple ping site</s>(It can't down a dedicated server, only a server hosted in a normal computer)<br />
- <b>Backup Minecraft Files or minecraft server files</b>
+ <font color="green">Completed and released</font><br />
+ <font color="green">Simple ping site</font>(It can't down a dedicated server, only a server hosted in a normal computer)<br />
+ <font color="orange">Backup Minecraft Files or minecraft server files</font>
