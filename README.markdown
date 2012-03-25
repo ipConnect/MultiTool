@@ -6,6 +6,7 @@ Legend:<br />
 
 Changelog:<br />
  | 0.1<br/>
- [...]Completed and released<br />
+ [+]Completed and released 0.1<br />
  [+]Simple ping site(It can't down a dedicated server, only a server hosted in a normal computer)<br />
- [...]Backup Minecraft Files or minecraft server files
+ [...]Backup Minecraft Files or minecraft server files<br />
+ [...]Advanced Browser web
